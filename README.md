@@ -1,4 +1,6 @@
-# Hi there, I'm Anurag 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+# Hi there, I'm Anurag <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+
 
 **Welcome to my digital realm**  
 Where code meets creativity and every line tells a story. I’m a curious mind dedicated to conquering complex problems, exploring new technologies, and continuously evolving as a developer.
@@ -9,14 +11,14 @@ Where code meets creativity and every line tells a story. I’m a curious mind d
 I'm a software developer who thrives on crafting robust solutions that perform seamlessly and scale with ease. I build everything from resilient backend systems to innovative full-stack experiments, tackling real-world challenges with clear thinking and meticulously clean code. I believe in hands-on learning, making impactful contributions, and continually pushing my limits - Each commit shatters limits
 
 
-## What Am I Up To?
+## What Am I Up To? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />
 
 - **Innovative Projects:** Creating solutions that not only solve problems but also challenge the status quo.
 - **Open Source Contributions:** Engaging with the developer community to learn, share, and grow.
 - **Continuous Learning:** Absorbing new skills and insights with every project, course, or challenge.
 
 
-## My Toolbox
+## My Toolbox <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px">
 
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
