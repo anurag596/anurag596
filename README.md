@@ -58,3 +58,9 @@ I'm a software developer who thrives on crafting robust solutions that perform s
 
 
 [![An image of @bobblaze's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bobblaze)](https://holopin.io/@bobblaze)
+
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
